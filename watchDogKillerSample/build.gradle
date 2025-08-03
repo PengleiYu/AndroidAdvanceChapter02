@@ -1,6 +1,7 @@
 apply plugin: 'com.android.application'
 
 android {
+    namespace 'com.dodola.watchdogkiller'
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.dodola.watchdogkiller"
